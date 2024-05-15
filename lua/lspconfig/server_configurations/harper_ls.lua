@@ -18,6 +18,7 @@ return {
       'csharp',
       'toml',
       'lua',
+      'gitcommit',
     },
     root_dir = util.find_git_ancestor,
     single_file_support = true,
