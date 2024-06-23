@@ -19,6 +19,7 @@ return {
       'toml',
       'lua',
       'gitcommit',
+      'java',
     },
     root_dir = util.find_git_ancestor,
     single_file_support = true,
